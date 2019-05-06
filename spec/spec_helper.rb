@@ -1,5 +1,7 @@
 require_relative '../app/refactor_me'
 require_relative '../app/solution'
-
+require_relative '../app/fizzbuzz'
+require_relative '../app/prime_number_evaluator'
+require_relative '../app/mapper'
 require 'rspec'
 require 'pry-byebug'

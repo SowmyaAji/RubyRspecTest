@@ -1,3 +1,5 @@
+#Code takes an array or hash, flattens 2-D arrays or a hash into an array and returns a string. Cleaned up code is in solution.rb 
+
 class RefactorMe
   def self.run(a_or_h)
     string = ''

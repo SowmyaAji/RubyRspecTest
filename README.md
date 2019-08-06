@@ -1,4 +1,4 @@
-# Backend Code Test
+# My solution to a Backend Code Test using Ruby and Rspec
 
 ## Instructions
 
